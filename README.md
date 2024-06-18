@@ -6,5 +6,9 @@
 - [线性代数](Interview/English.md)
 - [概率论](Interview/English.md)
 
+## 环境配置
+
+- [Linux下CMake安装](Environment/CMake.md)
+
 
 
