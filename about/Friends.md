@@ -9,14 +9,14 @@ PS：排名不分先后，友情第一，链接第二 ~~
 
 <div class="friends">
      <a class="a-friend" target="_blank" style="background-color:#FF9966;color:black" href="www.zxmh.cloud">
-        <img class="blog-avatar" src="https://img2020.cnblogs.com/blog/1546632/202109/1546632-20210916125244772-353101483.png">
+        <img class="blog-avatar" src="https://avatars.githubusercontent.com/u/107788931?v=4">
         <div class="text-container">
             <div class="name">Wenxin Zhu</div>
             <div class="description">My dear teammate in Peiyang Robot</div>
         </div>
     </a>
      <a class="a-friend" target="_blank" style="background-color:#98b755;color:black" href="https://fanlyu.com/">
-        <img class="blog-avatar" src="https://gitee.com/wugenqiang/PictureBed/raw/master/NoteBook/20200617115404.jpg">
+        <img class="blog-avatar" src="https://fanlyu.com/img/IMG_0900.PNG">
         <div class="text-container">
             <div class="name">Fan Lyu</div>
             <div class="description">My advisor on my first academic article</div>
