@@ -8,7 +8,7 @@
 
 ## 环境配置
 
-- [Linux下CMake安装](Environment/CMake.md)
+- [Linux下CMake安装](Environment/Cmake.md)
 
 
 
