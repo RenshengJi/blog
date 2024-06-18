@@ -28,10 +28,10 @@ PS：排名不分先后，友情第一，链接第二 ~~
 
 ## 📃 友链申请
 
-与我 [ 联系 ](https://bytesfly.github.io/blog/#/about/?id=💌-联系) 或者 [github](https://github.com/RenshengJi/blog/blob/master/about/Friends.md) 提`issues`，格式大致如下：
+[github](https://github.com/RenshengJi/blog/blob/master/about/Friends.md) 提`issues`，格式大致如下：
 
 > * 昵称：人生几何
-> * 头像：TODO:
-> * 主页：[https://bytesfly.github.io](https://bytesfly.github.io)
+> * 头像：请使用图床链接    
+> * 主页：[https://renshengji.github.io/](https://renshengji.github.io/)
 > * 说明：互联网是有记忆的，我想留下一些成长的脚印。
 
