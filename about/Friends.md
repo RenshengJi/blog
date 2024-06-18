@@ -8,7 +8,7 @@ PS：排名不分先后，友情第一，链接第二 ~~
 
 
 <div class="friends">
-     <a class="a-friend" target="_blank" style="background-color:#FF9966;color:black" href="www.zxmh.cloud">
+     <a class="a-friend" target="_blank" style="background-color:#FF9966;color:black" href="https://www.zxmh.cloud">
         <img class="blog-avatar" src="https://avatars.githubusercontent.com/u/107788931?v=4">
         <div class="text-container">
             <div class="name">Wenxin Zhu</div>
