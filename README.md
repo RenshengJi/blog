@@ -8,6 +8,7 @@
 
 ## 环境配置
 
+- [北洋机甲NX环境配置](Environment/NX.md)
 - [Linux下CMake安装](Environment/Cmake.md)
 
 
