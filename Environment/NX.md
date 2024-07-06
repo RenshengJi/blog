@@ -145,9 +145,17 @@ sudo ln -sf eigen3/Eigen Eigen
 sudo ln -sf eigen3/unsupported unsupported
 ```
 
-#### 6.从gitee上下载咱们代码
+#### 6.Tailscale安装
 
-地址：https://gitee.com/tju-rm-cv
+```bash
+sudo apt install curl
+curl -fsSL https://tailscale.com/install.sh | sh
+```
+
+启动
+```bash
+tailscale up 
+```
 
 #### 7.vscode安装
 
