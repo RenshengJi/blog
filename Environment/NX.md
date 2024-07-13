@@ -195,6 +195,23 @@ ssh-copy-id username@servername
 
 这样，就设置完成啦，以后ssh连接就不用输入密码了！
 
+
+#### 8.5 cuda链接
+
+报错：
+```bash
+    /usr/bin/ld: cannot find -lcudart
+    /usr/bin/ld: cannot find -lcublas
+```
+
+解决方案：
+不行就find找到cudart和libcublas的位置
+```bash
+    sudo ln -s /usr/local/cuda-11.4/targets/aarch64-linux/lib/libcublas /usr/local/lib/libcudart.so
+    sudo ln -s /usr/local/cuda-11.4/targets/aarch64-linux/lib/libcublas.so.11.6.6.84 /usr/local/lib/libcublas.so
+```
+
+
 #### 9.ros环境配置
 
 请参照[ROS安装教程(ubuntu18.04+melodic版本)](https://blog.csdn.net/KIK9973/article/details/118755045)，建议安装桌面完整版！
