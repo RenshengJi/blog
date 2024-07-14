@@ -18,9 +18,9 @@ Volleyball is my preferred pastime. During high school, I would engage in the sp
 
 Continual Test-Time Adaptation (CTTA) is an emerging and challenging task where a model trained in a source domain must adapt to continuously changing conditions during testing, without access to the original source data. CTTA is prone to error accumulation due to uncontrollable domain shifts, leading to blurred decision boundaries between categories. Existing CTTA methods primarily focus on suppressing domain shifts, which proves inadequate during the unsupervised test phase.
 In contrast, we introduce a novel approach that guides rather than suppresses these shifts.
-Specifically, we propose \textbf{C}ontrollable \textbf{Co}ntinual \textbf{T}est-\textbf{T}ime \textbf{A}daptation (C-CoTTA), which explicitly prevents any single category from encroaching on others, thereby mitigating the mutual influence between categories caused by uncontrollable shifts. 
+Specifically, we propose ***C***ontrollable ***Co***ntinual ***T***est-***T***ime ***A***daptation (C-CoTTA), which explicitly prevents any single category from encroaching on others, thereby mitigating the mutual influence between categories caused by uncontrollable shifts. 
 Moreover, our method reduces the sensitivity of model to domain transformations, thereby minimizing the magnitude of category shifts. 
-Extensive quantitative experiments demonstrate the effectiveness of our method, while qualitative analyses, such as t-SNE plots, confirm the theoretical validity of our approach. Our code is available at \href{https://github.com/RenshengJi/C-CoTTA}{https://github.com/RenshengJi/C-CoTTA.}
+Extensive quantitative experiments demonstrate the effectiveness of our method, while qualitative analyses, such as t-SNE plots, confirm the theoretical validity of our approach. Our code is available at github.
 
 
 ## 项目经历
