@@ -207,7 +207,7 @@ ssh-copy-id username@servername
 解决方案：
 不行就find找到cudart和libcublas的位置
 ```bash
-    sudo ln -s /usr/local/cuda-11.4/targets/aarch64-linux/lib/libcublas /usr/local/lib/libcudart.so
+    sudo ln -s /usr/local/cuda-11.4/targets/aarch64-linux/lib/libcudart.so.11.4.298 /usr/local/lib/libcudart.so
     sudo ln -s /usr/local/cuda-11.4/targets/aarch64-linux/lib/libcublas.so.11.6.6.84 /usr/local/lib/libcublas.so
 ```
 
