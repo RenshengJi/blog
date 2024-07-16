@@ -2,7 +2,7 @@
 ## 保研复习
 
 - [英语](Interview/English.md)
-- [微积分](Interview/English.md)
+- [微积分](Interview/Calculus.md)
 - [线性代数](Interview/English.md)
 - [概率论](Interview/English.md)
 
@@ -11,5 +11,5 @@
 - [北洋机甲NX环境配置](Environment/NX.md)
 - [Linux下CMake安装](Environment/Cmake.md)
 - [sshImage](Environment/sshImage.md)
-
+- [配置wifi优先级](Environment/wifiPriority.md)
 

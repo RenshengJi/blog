@@ -23,9 +23,14 @@ Moreover, our method reduces the sensitivity of model to domain transformations,
 Extensive quantitative experiments demonstrate the effectiveness of our method, while qualitative analyses, such as t-SNE plots, confirm the theoretical validity of our approach. Our code is available at github.
 
 
-## 项目经历
+## 家乡
+
+My hometown, Qinyuan, is located in the southeast of Shanxi Province. It has very fresh air and a very pleasant environment. It has been named one of the "Top Ten Small Cities for Deep Breathing" in the country. Welcome!
 
 
+# 家庭
+
+My family has a harmonious atmosphere. My father is a government worker and my mother is a middle school teacher. They value education, but they don't give me much pressure.
 
 
 
