@@ -10,7 +10,7 @@ Good morning/afternoon, I am delighted to take part in this interview. My name i
 ## 爱好
 
 
-Volleyball is my preferred pastime. During high school, I would engage in the sport for about an hour daily to unwind, and continued playing once or twice a week in college. It serves as a way for me to stay active and shed some pounds, while also allowing me to reminisce about the fond memories from my high school days.
+I enjoy playing volleyball as my favorite hobby. In high school, I used to play the sport for about an hour every day to relax, and I continued playing once or twice a week in college. It helps me stay active, lose weight, and brings back nostalgic memories from my high school days.
 
 
 ## 科研经历
@@ -25,12 +25,36 @@ Extensive quantitative experiments demonstrate the effectiveness of our method, 
 
 ## 家乡
 
-My hometown, Qinyuan, is located in the southeast of Shanxi Province. It has very fresh air and a very pleasant environment. It has been named one of the "Top Ten Small Cities for Deep Breathing" in the country. Welcome!
+My hometown, Qinyuan, is located in the southeast of Shanxi Province, known for its clean air and beautiful surroundings. It has been recognized as one of the top ten small cities in the country for its fresh air quality. welcome!
 
 
-# 家庭
+## 家庭
 
-My family has a harmonious atmosphere. My father is a government worker and my mother is a middle school teacher. They value education, but they don't give me much pressure.
+My family has a peaceful environment. My dad works for the government and my mom is a teacher at a middle school. They prioritize education but don't put too much pressure on me. I appreciate their supportive guidance.
 
+
+## 最喜欢的课程
+
+My favorite course is image processing because it has given me insight into traditional techniques like image coloring and interpolation that were used prior to the popularity of machine learning.
+
+
+## 你的优点是什么，性格
+
+My strengths are being calm, able to analyze failures when facing setbacks rather than being sad; and being able to think of solutions calmly when encountering difficulties instead of getting lost.
+
+
+## 为什么选择我们学校
+
+Through my internship at the automation institute, I found that the academic atmosphere here is very good, with many excellent teachers and students.
+
+
+## 参加比赛的情况
+
+I mainly took part in the Robomaster competition and led the vision&algorithm team, Here, I have learned a lot of knowledge, including machine learning, computer vision, and robotics; at the same time, I have also made many like-minded friends.
+
+
+## 介绍一下你的学校
+
+My school is Tianjin University, also known as “Tian Da”. It was originally Beiyang University, the first modern university in China that led the way for modern higher education in the country.
 
 
