@@ -25,7 +25,7 @@ Extensive quantitative experiments demonstrate the effectiveness of our method, 
 
 ## 家乡
 
-My hometown, Qinyuan, is located in the southeast of Shanxi Province, known for its clean air and beautiful surroundings. It has been recognized as one of the top ten small cities in the country for its fresh air quality. welcome!
+My hometown, Qinyuan, is located in the southeast of Shanxi Province, known for its clean air and beautiful surroundings. It has been recognized as one of the top ten small fresh air cities in china. welcome!
 
 
 ## 家庭
