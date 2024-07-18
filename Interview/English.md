@@ -10,7 +10,7 @@ Good morning/afternoon, I am delighted to take part in this interview. My name i
 ## 爱好
 
 
-I enjoy playing volleyball as my favorite hobby. In high school, I used to play the sport for about an hour every day to relax, and I continued playing once or twice a week in college. It helps me stay active, lose weight, and brings back nostalgic memories from my high school days.
+I enjoy playing volleyball as my favorite hobby. In high school, I play it an hour every day to relax, and I continued playing once or twice a week in college. It helps me stay active, lose weight, and brings back memories from my high school days.
 
 
 ## 科研经历
@@ -30,7 +30,7 @@ My hometown, Qinyuan, is located in the southeast of Shanxi Province, known for 
 
 ## 家庭
 
-My family has a peaceful environment. My dad works for the government and my mom is a teacher at a middle school. They prioritize education but don't put too much pressure on me. I appreciate their supportive guidance.
+My family has a peaceful environment. My dad works for the government and my mom is a teacher at a middle school. They value education but don't put too much pressure on me. I appreciate their guidance.
 
 
 ## 最喜欢的课程
@@ -40,7 +40,12 @@ My favorite course is image processing because it has given me insight into trad
 
 ## 你的优点是什么，性格
 
-My strengths are being calm, able to analyze failures when facing setbacks rather than being sad; and being able to think of solutions calmly when encountering difficulties instead of getting lost.
+My strength is remain calm all times. No matter what difficulties I face, I always take a moment to think calmly and find solutions, instead of getting overwhelmed.
+
+
+## 你的缺点是什么
+
+My weakness is sometimes, I need long time to make decisions. I think everything has its advantages and disadvantages. So I always want to consider all possibilities before making a decision, which can be time-consuming.
 
 
 ## 为什么选择我们学校
@@ -50,11 +55,25 @@ Through my internship at the automation institute, I found that the academic atm
 
 ## 参加比赛的情况
 
-I mainly took part in the Robomaster competition and led the vision&algorithm team, Here, I have learned a lot of knowledge, including machine learning, computer vision, and robotics; at the same time, I have also made many like-minded friends.
+I mainly took part in the Robomaster competition and led the vision&algorithm team, Here, I have learned a lot of knowledge, including machine learning, computer vision, and robotics; at the same time, I made many like-minded friends.
 
 
 ## 介绍一下你的学校
 
 My school is Tianjin University, also known as “Tian Da”. It was originally Beiyang University, the first modern university in China that led the way for modern higher education in the country.
 
+
+## 为什么要转专业
+
+I have no interest in the knowledge of my original major. After learning about C++ and artificial intelligence technology, I have decided to change my major.
+
+
+## 最喜欢的一本书
+
+My favorite book is "The Three-Body Problem" written by Liu Cixin, which creates a dynamic relationship between science and literature.
+
+
+## How would you describe yourself in three words?
+
+logical creative Motivated
 
