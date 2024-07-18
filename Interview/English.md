@@ -35,7 +35,7 @@ My family has a peaceful environment. My dad works for the government and my mom
 
 ## 最喜欢的课程
 
-My favorite course is image processing because it has given me insight into traditional techniques like image coloring and image interpolation.
+My favorite course is image processing because it teach me traditional techniques like image coloring and image interpolation.
 
 
 ## 你的优点是什么，性格
