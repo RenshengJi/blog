@@ -55,17 +55,17 @@ Through my internship at the automation institute, I found that the academic atm
 
 ## 参加比赛的情况
 
-I mainly took part in the Robomaster competition and led the vision&algorithm team, Here, I have learned a lot of knowledge, including machine learning, computer vision, and robotics; at the same time, I made many like-minded friends.
+I mainly took part in the Robomaster competition and led the vision&algorithm team, Here, I have learned a lot of knowledge, including machine learning, computer vision, and robotics; at the same time, I made many friends.
 
 
 ## 介绍一下你的学校
 
-My school is Tianjin University, also known as “Tian Da”. It was originally Beiyang University, the first modern university in China that led the way for modern higher education in the country.
+My school is Tianjin University, also known as “Tian Da”. It was originally Beiyang University, the first modern university in China, led the way for modern higher education in the country.
 
 
 ## 为什么要转专业
 
-I have no interest in the knowledge of my original major. After learning about C++ and artificial intelligence technology, I have decided to change my major.
+I have no interest in the knowledge of my original major. After learning about C++ and artificial intelligence technology, I have decided to change my major. Finally, I was transferred to the major of Computer Science and technology with the second position in the transfer examination.
 
 
 ## 最喜欢的一本书
@@ -75,5 +75,5 @@ My favorite book is "The Three-Body Problem" written by Liu Cixin, which creates
 
 ## How would you describe yourself in three words?
 
-logical creative Motivated
+Motivated creative logical  
 
