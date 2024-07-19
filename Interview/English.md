@@ -45,7 +45,7 @@ My strength is remain calm all times. No matter what difficulties I face, I alwa
 
 ## 你的缺点是什么
 
-My weakness is sometimes, I need long time to make decisions. I think everything has its advantages and disadvantages. So I always want to consider all possibilities before making a decision, which can be time-consuming.
+My weakness is sometimes, I need long time to make decisions. I think everything has its advantages and disadvantages. So I always consider all possibilities before making a decision, which time-consuming.
 
 
 ## 为什么选择我们学校
@@ -60,7 +60,7 @@ I mainly took part in the Robomaster competition and led the vision&algorithm te
 
 ## 介绍一下你的学校
 
-My school is Tianjin University, also known as “Tian Da”. It was originally Beiyang University, the first modern university in China, led the way for modern higher education in the country.
+My school is Tianjin University, also known as “Tian Da”. It was originally Beiyang University, the first modern university in China, led the modern higher education in the country.
 
 
 ## 为什么要转专业
