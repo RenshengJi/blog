@@ -60,7 +60,7 @@ I mainly took part in the Robomaster competition and led the vision&algorithm te
 
 ## 介绍一下你的学校
 
-My school is Tianjin University, also known as “Tian Da”. It was originally Beiyang University, the first modern university in China, led the modern higher education in the country.
+My school is Tianjin University, also known as “Tian Da”. It was originally Beiyang University, the first modern university in China, led the modern higher education.
 
 
 ## 为什么要转专业
